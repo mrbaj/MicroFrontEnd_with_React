@@ -13,7 +13,7 @@ defaults:
 
 jobs:
   build:
-    runs-on: unabtu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: action/checkout@v2
